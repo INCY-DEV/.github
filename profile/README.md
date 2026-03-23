@@ -41,8 +41,7 @@
 
 | Platform | Installer | Portable |
 |:---------|:----------|:---------|
-| **Windows x64** | [![EXE](https://img.shields.io/badge/Setup-x64-0078d4?logo=windows&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-x64-setup.exe) | [![ZIP](https://img.shields.io/badge/ZIP-x64-0078d4?logo=windows&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-x64-portable.zip) |
-| **Windows ARM64** | [![EXE](https://img.shields.io/badge/Setup-arm64-0078d4?logo=windows&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-arm64-setup.exe) | [![ZIP](https://img.shields.io/badge/ZIP-arm64-0078d4?logo=windows&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-arm64-portable.zip) |
+| **Windows ARM64 / x64** | [![EXE](https://img.shields.io/badge/Setup-x64-0078d4?logo=windows&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-x64-setup.exe) | [![ZIP](https://img.shields.io/badge/ZIP-x64-0078d4?logo=windows&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-x64-portable.zip) |
 | **macOS (Apple Silicon)** | [![DMG](https://img.shields.io/badge/DMG-arm64-555555?logo=apple&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-macos-arm64.dmg) | |
 | **macOS (Intel)** | [![DMG](https://img.shields.io/badge/DMG-Intel-555555?logo=apple&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-macos-intel.dmg) | |
 
