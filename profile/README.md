@@ -37,21 +37,6 @@
 
 ---
 
-### Desktop downloads
-
-| Platform | Installer | Portable |
-|:---------|:----------|:---------|
-| **Windows ARM64 / x64** | [![EXE](https://img.shields.io/badge/Setup-x64-0078d4?logo=windows&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-setup.exe) | [![ZIP](https://img.shields.io/badge/ZIP-x64-0078d4?logo=windows&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-portable.zip) |
-| **macOS (Apple Silicon)** | [![DMG](https://img.shields.io/badge/DMG-arm64-555555?logo=apple&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-macos-arm64.dmg) | |
-| **macOS (Intel)** | [![DMG](https://img.shields.io/badge/DMG-Intel-555555?logo=apple&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-macos-intel.dmg) | |
-
-### Linux packages
-
-| Architecture | DEB | RPM | Arch | Portable |
-|:-------------|:----|:----|:-----|:---------|
-| **x64** | [![DEB](https://img.shields.io/badge/deb-x64-a80030?logo=debian&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-linux-x64.deb) | [![RPM](https://img.shields.io/badge/rpm-x64-ee0000?logo=redhat&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-linux-x64.rpm) | [![PKG](https://img.shields.io/badge/pkg-x64-1793d1?logo=archlinux&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-linux-x64.pkg.tar.zst) | [![ZIP](https://img.shields.io/badge/ZIP-x64-e95420?logo=linux&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-linux-x64-portable.zip) |
-| **ARM64** | [![DEB](https://img.shields.io/badge/deb-arm64-a80030?logo=debian&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-linux-arm64.deb) | [![RPM](https://img.shields.io/badge/rpm-arm64-ee0000?logo=redhat&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-linux-arm64.rpm) | — | [![ZIP](https://img.shields.io/badge/ZIP-arm64-e95420?logo=linux&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-linux-arm64-portable.zip) |
-
 | Android APK (sideload) |
 |:--|
 | [![APK](https://img.shields.io/badge/APK-Latest-34a853?logo=android&logoColor=white)](https://github.com/INCY-DEV/incy-platforms/releases/latest/download/Incy.apk) |
