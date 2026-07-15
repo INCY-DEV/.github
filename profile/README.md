@@ -5,7 +5,7 @@
 **Cross-platform proxy client with advanced routing**
 
 [![Website](https://img.shields.io/badge/Website-incy.cc-6c5ce7?style=for-the-badge&logo=safari&logoColor=white)](https://incy.cc)
-[![Docs](https://img.shields.io/badge/Docs-GitBook-346DDB?style=for-the-badge&logo=gitbook&logoColor=white)](https://incy.gitbook.io/docs)
+[![Docs](https://img.shields.io/badge/Docs-GitBook-346DDB?style=for-the-badge&logo=gitbook&logoColor=white)](https://docs.incy.cc)
 
 [![iOS](https://img.shields.io/badge/iOS-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ru/app/incy/id6756943388)
 [![Android](https://img.shields.io/badge/Android-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=llc.itdev.incy)
@@ -47,6 +47,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-incy__public-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/incy_public)
 [![Website](https://img.shields.io/badge/incy.cc-6c5ce7?style=flat-square&logo=safari&logoColor=white)](https://incy.cc)
-[![Docs](https://img.shields.io/badge/Documentation-346DDB?style=flat-square&logo=gitbook&logoColor=white)](https://incy.gitbook.io/docs)
+[![Docs](https://img.shields.io/badge/Documentation-346DDB?style=flat-square&logo=gitbook&logoColor=white)](https://docs.incy.cc)
 
 </div>
